@@ -1,11 +1,12 @@
 # Code &amp; supporting data behind Pioneer Press stories and interactives
 
-All code and data here should be publicly available soon but for now should be considered copyrighted by the Pioneer Press, all rights reserved, while we establish a license to rerelease it under.
+Data here is available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the code is available under the [MIT License](http://opensource.org/licenses/MIT).
 
 Feel free to [contact us](mailto:datacenter@pioneerpress.com) with any questions or comments.
 
 Date | Project | Github Folder
 ---|---------|-------------
+Aug. 12, 2016 | Poll odds interpreter | `pollodds`
 Aug. 9, 2016 | Primary election data scraper | `sos-scraper`
 July 13, 2016 | [St. Anthony Police Department data](http://www.twincities.com/2016/07/13/st-anthony-police-data-shows-disproportionate-arrests-of-blacks/) | `st-anthony-police`
 July 8, 2016 | [Racial disparities graphs](http://www.twincities.com/2016/07/08/data-dive-racial-disparities-in-minnesota-traffic-stops/) | `disparities`
